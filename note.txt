@@ -1,0 +1,27 @@
+Instram Reels Clone With React
+
+What we need to build this project?
+
+1. Deploy Using Firebase
+
+2. Videos are stored in Fireabse
+
+3. Using Firebase Real-time Database.
+
+4. CSS Tricks + Hacks
+
+5. How the tiktok style vertical Snapping Works
+
+6. Material UI
+
+7. React Ticker... (For Scrolling ticker)
+
+----------------------
+
+packages
+
+Ticker
+
+npm i react-ticker
+
+ 
